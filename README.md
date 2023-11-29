@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-mihir2002&show_icons=true&locale=en" alt="s-mihir2002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-mihir2002&" alt="s-mihir2002" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SMihir-2002&" alt="SMihir-2002" /></p>
